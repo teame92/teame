@@ -16,7 +16,7 @@ header {
 }
 
 .topclass {
-    background: url(/acces/HeaderBG@1X.jpeg) no-repeat;
+    background: url(./acces/HeaderBG@1X.jpeg) no-repeat;
     max-width: 1602px;
     height: 944px;
     background-position-x: 0px;
